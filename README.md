@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @visheshpanchal
 - 👀 I’m interested in Web Development, Machine Learning, Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Python, Javascript
+- 💞️ I’m looking to collaborate on Python, Java, Javascript
 - 📫 How to reach me LinkedIn @visheshpanchal
 
 <!---
