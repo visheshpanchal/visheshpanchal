@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Machine Learning, Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python, Java, Javascript
-- 📫 How to reach me LinkedIn @visheshpanchal
+- 📫 How to reach me LinkedIn @visheshpanchal, Gmail Id visheshpanchal145@gmail.com
 
 <!---
 visheshpanchal/visheshpanchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
